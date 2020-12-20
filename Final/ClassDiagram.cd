@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TextView">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAAAAQAAAACAAAAAAAAAkAAAAAACCAAAAAIIA=</HashCode>
+      <FileName>TextView.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextData">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABABAQEAABACAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>TextData.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextConverter">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextConverter.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextController">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABAAAAAAAAAAAAAAAABAAAAAIAQAAAACAAAA=</HashCode>
+      <FileName>TextController.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
